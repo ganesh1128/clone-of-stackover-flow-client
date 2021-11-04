@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
+    "start": "node_modules/next/dist/bin/next start -p $PORT",
     "heroku-postbuild": "npm run build",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
