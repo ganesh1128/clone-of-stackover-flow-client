@@ -1,5 +1,5 @@
 module.exports = {
   env: {
-    SITE_NAME: "https://clone-of-stack-over-flow.herokuapp.com"
+    SITE_NAME: process.env.SITE_NAME
   }
 }
