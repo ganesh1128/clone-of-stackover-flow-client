@@ -22,7 +22,7 @@
     "formik": "^2.1.5",
     "next": "^9.4.4",
     "nprogress": "^0.2.0",
-    "react": "^16.13.1",
+    "react": "^17.0.2",
     "react-dom": "^16.13.1",
     "react-tagsinput": "^3.19.0",
     "slug": "^3.3.2",
